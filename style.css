@@ -237,5 +237,6 @@
         position: absolute;
         right: -200px;
         bottom: -300px;
+        overflow: hidden;
     }
 }
